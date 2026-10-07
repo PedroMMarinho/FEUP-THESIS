@@ -1,0 +1,16 @@
+Pegar 10 a 15 artigos para o projeto
+
+
+Fazer uma tabela artigo, ano, o future work, Perceber os cenarios,
+
+Research questions podem ser os modelos 
+
+Limitacoes,vantagens e o que nao resolve.
+
+Tentar perceber os shapeleys values, se vale a pena. E para além do shapeleyes ver o Lime values. Vale bastante a pena investigar sobre os mesmos. Ver em programacao genetica e algoritmos geneticos
+
+Ver o que ha no mercado nada do codigo.
+
+Papers:
+
+Rodrigues, N. M., Batista, J. E., Cava, W. L., et al. (2024). Exploring SLUG: Feature Selection Using Genetic Algorithms and Genetic Programming. SN Computer Science. Disponível em: https://link.springer.com/article/10.1007/s42979-023-02106-3 • Improving Generalization of Genetic Programming for High-Dimensional Symbolic Regression with Shapley Value Based Feature Selection - trabalho recente que combina GP com métodos de importância de features como Shapley Values. Disponível em: https://link.springer.com/article/10.1007/s41019-024-00270-x • Mweshi, G. (2019). Feature Selection using Genetic Programming. Zambia ICT Journal. https://doi.org/10.33260/zictjournal.v3i2.62
